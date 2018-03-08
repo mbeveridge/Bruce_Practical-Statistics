@@ -5,7 +5,7 @@ O'Reilly has pages for the [book](http://shop.oreilly.com/product/0636920048992.
 
 _"Statistical methods are a key part of of data science, yet very few data scientists have any formal statistics training. Courses and books on basic statistics rarely cover the topic from a data science perspective. This practical guide explains how to apply various statistical methods to data science, tells you how to avoid their misuse, and gives you advice on what's important and what's not."_
 
-_"With this book, you’ll learn:"_
+_"With this book, you’ll learn : "_
 
 * Why **exploratory data analysis** is a key preliminary step in data science
 * How **random sampling** can reduce bias and yield a higher quality dataset, even with big data
@@ -16,7 +16,7 @@ _"With this book, you’ll learn:"_
 * **Unsupervised learning** methods for extracting meaning from unlabeled data
 
 ## Table of Contents
-###### [abbreviated + numbered]
+###### [condensed + numbered]
 ### 1. Exploratory Data Analysis
 1. Elements of Structured Data
 2. Rectangular Data
@@ -58,13 +58,13 @@ _"With this book, you’ll learn:"_
 32. Prediction Using Regression
 33. Factor Variables in Regression
 34. Interpreting the Regression Equation
-35. Resting the Assumptions: Regression Diagnostics
+35. Testing the Assumptions: Regression Diagnostics
 36. Polynomial and Spline Regression
 
 ### 5. Classification
 37. Naive Bayes
 38. Discriminant Analysis
-39. LOgistic Regression
+39. Logistic Regression
 40. Evaluating Classification Models
 41. Strategies for Imbalanced Data
 
